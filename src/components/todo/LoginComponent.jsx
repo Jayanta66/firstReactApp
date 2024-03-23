@@ -28,20 +28,6 @@ class LoginComponent extends Component {
         )
     }
 
-    // handleUsernameChange(event) {
-    //     console.log(event.target.name);
-    //     this.setState(
-    //         {
-    //             [event.target.name]
-    //               :event.target.value
-    //         }
-    //     )
-    // }
-
-    // handlePasswordChange(event) {
-    //     console.log(event.target.value);
-    //     this.setState({password:event.target.value})
-    // }
 
     loginClicked() {
         //in28minutes,dummy
